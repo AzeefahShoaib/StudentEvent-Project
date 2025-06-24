@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Domain\bin\Debug\net9.0\UniVerseEvents.Domain.deps.json
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Domain\bin\Debug\net9.0\UniVerseEvents.Domain.dll
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Domain\bin\Debug\net9.0\UniVerseEvents.Domain.pdb
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Domain\obj\Debug\net9.0\UniVerseEvents.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Domain\obj\Debug\net9.0\UniVerseEvents.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Domain\obj\Debug\net9.0\UniVerseEvents.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Domain\obj\Debug\net9.0\UniVerseEvents.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Domain\obj\Debug\net9.0\UniVerseEvents.Domain.dll
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Domain\obj\Debug\net9.0\refint\UniVerseEvents.Domain.dll
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Domain\obj\Debug\net9.0\UniVerseEvents.Domain.pdb
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Domain\obj\Debug\net9.0\ref\UniVerseEvents.Domain.dll

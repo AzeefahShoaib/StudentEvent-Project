@@ -1,0 +1,189 @@
+﻿/*
+ * UniVerse Events - "Blueprint" Light Theme
+ * A clean, technical, and academic theme for API documentation.
+ */
+
+/* Import a classic, serif font for a "printed document" feel */
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap');
+
+/* --- NEW "Blueprint" Light Mode Color Palette --- */
+:root {
+    --theme-bg: #f4f7f6; /* Off-white, slightly textured background */
+    --theme-text-main: #2d3748; /* Dark Gray for main text */
+    --theme-text-muted: #718096; /* Lighter Gray for descriptions */
+    --theme-accent-primary: #3182ce; /* Blueprint Blue for accents and titles */
+    --theme-border: #cbd5e0; /* Light Gray for borders */
+    --theme-panel-bg: #ffffff; /* Pure White for panels */
+    /* Colors for HTTP methods */
+    --theme-get: #3182ce; /* Blueprint Blue */
+    --theme-post: #38a169; /* Forrest Green */
+    --theme-put: #dd6b20; /* Burnt Orange */
+    --theme-delete: #c53030; /* Brick Red */
+}
+
+/* --- General Styling with a Grid Background --- */
+body {
+    font-family: 'Lora', serif;
+    background-color: var(--theme-bg);
+    /* Subtle grid background for the "blueprint" feel */
+    background-image: linear-gradient(var(--theme-border) 1px, transparent 1px), linear-gradient(to right, var(--theme-border) 1px, transparent 1px);
+    background-size: 40px 40px;
+    background-position: -1px -1px;
+}
+
+.swagger-ui {
+    color: var(--theme-text-main);
+}
+
+    /* --- Top Bar (Header) --- */
+    .swagger-ui .topbar {
+        background-color: white;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        border-bottom: 2px solid var(--theme-accent-primary);
+    }
+
+    /* --- Main Title --- */
+    .swagger-ui .info {
+        margin: 40px 20px;
+    }
+
+        .swagger-ui .info .title {
+            color: var(--theme-text-main);
+            font-size: 2.5rem;
+            font-weight: 700;
+        }
+
+            .swagger-ui .info .title small.version-badge {
+                background-color: var(--theme-accent-primary) !important;
+            }
+
+    /* 
+ * --- THEME GOAL: New Structure - Left-Aligned Endpoint List --- 
+ * We will make the endpoint groups look like sections in a document.
+*/
+    .swagger-ui .opblock-tag-section {
+        padding: 0;
+        margin-bottom: 40px;
+    }
+
+    /* Styling the section title (e.g., "Events") */
+    .swagger-ui .opblock-tag {
+        font-size: 1.75rem;
+        font-weight: 700;
+        color: var(--theme-text-main);
+        border: none;
+        padding: 10px 0;
+        margin-bottom: 10px;
+        /* Underline effect for the title */
+        border-bottom: 3px solid var(--theme-accent-primary);
+        display: inline-block; /* Makes the underline only as wide as the text */
+    }
+
+    /*
+ * --- THEME GOAL: Redesigned Endpoint Rows ---
+ * Each endpoint is a self-contained card with a prominent method type on the left.
+*/
+    .swagger-ui .opblock {
+        background: var(--theme-panel-bg);
+        border: 1px solid var(--theme-border);
+        border-radius: 0; /* Sharp, square corners */
+        box-shadow: 0 3px 6px rgba(0,0,0,0.08);
+        margin: 16px 0 !important;
+        display: flex; /* Using Flexbox for the new layout */
+        align-items: center;
+    }
+
+        /* Removing default summary border */
+        .swagger-ui .opblock .opblock-summary {
+            border: none;
+            padding: 0;
+            flex-grow: 1; /* The summary part will take up the remaining space */
+        }
+
+        /* The method type (GET, POST) is a block on the left */
+        .swagger-ui .opblock .opblock-summary-method {
+            min-width: 120px;
+            font-weight: 700;
+            padding: 20px 0;
+            margin-right: 20px;
+            border-radius: 0;
+            text-align: center;
+            color: white !important; /* Always white text on colored backgrounds */
+        }
+
+        .swagger-ui .opblock.opblock-get .opblock-summary-method {
+            background: var(--theme-get);
+        }
+
+        .swagger-ui .opblock.opblock-post .opblock-summary-method {
+            background: var(--theme-post);
+        }
+
+        .swagger-ui .opblock.opblock-put .opblock-summary-method {
+            background: var(--theme-put);
+        }
+
+        .swagger-ui .opblock.opblock-delete .opblock-summary-method {
+            background: var(--theme-delete);
+        }
+
+    /* Styling the path and description */
+    .swagger-ui .opblock-summary-path {
+        font-size: 1.2rem;
+        font-weight: 700;
+        color: var(--theme-text-main);
+    }
+
+    .swagger-ui .opblock-summary-description {
+        font-size: 0.9rem;
+        color: var(--theme-text-muted);
+    }
+
+    /* --- Expanded Details Styling --- */
+    /* The expand arrow is now on the far right */
+    .swagger-ui .opblock-summary .view-line-link {
+        padding: 20px;
+    }
+
+    .swagger-ui .opblock .opblock-body {
+        width: 100%; /* Make the body span the full width below */
+        background-color: #fafafa;
+        padding: 24px;
+        border-top: 1px dashed var(--theme-border);
+    }
+
+    /* --- Buttons and Inputs --- */
+    .swagger-ui .btn {
+        border-radius: 2px;
+        font-weight: 700;
+        border: 2px solid;
+        transition: all 0.2s ease;
+    }
+
+        .swagger-ui .btn.try-out {
+            border-color: var(--theme-accent-primary);
+            color: var(--theme-accent-primary);
+        }
+
+            .swagger-ui .btn.try-out:hover {
+                background: var(--theme-accent-primary);
+                color: white;
+            }
+
+        .swagger-ui .btn.execute {
+            background: var(--theme-accent-primary);
+            border-color: var(--theme-accent-primary);
+            color: white;
+        }
+
+    /* --- Schemas Section --- */
+    .swagger-ui .scheme-container {
+        background: var(--theme-panel-bg);
+        padding: 20px;
+        box-shadow: 0 3px 6px rgba(0,0,0,0.08);
+        border: 1px solid var(--theme-border);
+    }
+
+    .swagger-ui .model-container, .swagger-ui .responses-inner {
+        padding: 20px;
+    }

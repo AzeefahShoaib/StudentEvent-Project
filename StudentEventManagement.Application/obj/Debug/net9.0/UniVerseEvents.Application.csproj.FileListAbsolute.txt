@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Application\bin\Debug\net9.0\UniVerseEvents.Application.deps.json
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Application\bin\Debug\net9.0\UniVerseEvents.Application.dll
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Application\bin\Debug\net9.0\UniVerseEvents.Application.pdb
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Application\bin\Debug\net9.0\UniVerseEvents.Domain.dll
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Application\bin\Debug\net9.0\UniVerseEvents.Infrastructure.dll
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Application\bin\Debug\net9.0\UniVerseEvents.Domain.pdb
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Application\bin\Debug\net9.0\UniVerseEvents.Infrastructure.pdb
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Application\obj\Debug\net9.0\UniVerseEvents.Application.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Application\obj\Debug\net9.0\UniVerseEvents.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Application\obj\Debug\net9.0\UniVerseEvents.Application.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Application\obj\Debug\net9.0\UniVerseEvents.Application.AssemblyInfo.cs
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Application\obj\Debug\net9.0\UniVerseEvents.Application.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Application\obj\Debug\net9.0\UniVerse.95E50C01.Up2Date
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Application\obj\Debug\net9.0\UniVerseEvents.Application.dll
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Application\obj\Debug\net9.0\refint\UniVerseEvents.Application.dll
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Application\obj\Debug\net9.0\UniVerseEvents.Application.pdb
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Application\obj\Debug\net9.0\ref\UniVerseEvents.Application.dll

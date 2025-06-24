@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.API\wwwroot\css\custom-swagger.css
+wwwroot\css\custom-swagger.css

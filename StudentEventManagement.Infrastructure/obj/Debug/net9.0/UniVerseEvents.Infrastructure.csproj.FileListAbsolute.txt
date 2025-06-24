@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Infrastructure\bin\Debug\net9.0\UniVerseEvents.Infrastructure.deps.json
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Infrastructure\bin\Debug\net9.0\UniVerseEvents.Infrastructure.runtimeconfig.json
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Infrastructure\bin\Debug\net9.0\UniVerseEvents.Infrastructure.dll
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Infrastructure\bin\Debug\net9.0\UniVerseEvents.Infrastructure.pdb
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Infrastructure\bin\Debug\net9.0\UniVerseEvents.Domain.dll
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Infrastructure\bin\Debug\net9.0\UniVerseEvents.Domain.pdb
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Infrastructure\obj\Debug\net9.0\UniVerseEvents.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Infrastructure\obj\Debug\net9.0\UniVerseEvents.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Infrastructure\obj\Debug\net9.0\UniVerseEvents.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Infrastructure\obj\Debug\net9.0\UniVerseEvents.Infrastructure.AssemblyInfo.cs
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Infrastructure\obj\Debug\net9.0\UniVerseEvents.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Infrastructure\obj\Debug\net9.0\UniVerse.80179F31.Up2Date
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Infrastructure\obj\Debug\net9.0\UniVerseEvents.Infrastructure.dll
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Infrastructure\obj\Debug\net9.0\refint\UniVerseEvents.Infrastructure.dll
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Infrastructure\obj\Debug\net9.0\UniVerseEvents.Infrastructure.pdb
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Infrastructure\obj\Debug\net9.0\UniVerseEvents.Infrastructure.genruntimeconfig.cache
+C:\Users\user\source\repos\UniVerseEvents\StudentEventManagement.Infrastructure\obj\Debug\net9.0\ref\UniVerseEvents.Infrastructure.dll
